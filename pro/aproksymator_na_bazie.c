@@ -6,7 +6,9 @@
 #include <stdlib.h>
 #include <float.h>
 
-#define G 0
+#define DEBUG 1
+
+#define G 1
 
 /* UWAGA: liczbę używanych f. bazowych można ustawić przez wartość
           zmiennej środowiskowej APPROX_BASE_SIZE
